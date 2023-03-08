@@ -1,0 +1,31 @@
+.transactionHistory {
+  margin-top: 60px;
+  width: 800px;
+  margin-bottom: 100px;
+}
+
+.name {
+  border: 2px solid rgb(174, 174, 174);
+  background-color: rgb(68, 68, 182);
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.lines {
+  background-color: rgb(224, 224, 239);
+  color: rgb(70, 70, 131);
+  padding: 20px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.lines:nth-child(2n) {
+  background-color: rgb(187, 187, 242);
+}
+
+.block {
+  padding: 20px;
+  text-transform: capitalize;
+}

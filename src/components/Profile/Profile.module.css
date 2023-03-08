@@ -1,74 +1,71 @@
-
-.container{
-    margin-top: 100px;
-    background-color: rgb(159, 159, 159);
-    width: 800px;
+.container {
+  margin-top: 100px;
+  background-color: rgb(159, 159, 159);
+  width: 800px;
 }
-.avatar{
-    display: block;
-    margin: 0 auto;
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-
+.avatar {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
 }
 
-.username{
-    font-size: 60px;
-    margin-top: 50px;
-    margin-bottom: 14px;
-    text-align: center;
+.username {
+  font-size: 60px;
+  margin-top: 50px;
+  margin-bottom: 14px;
+  text-align: center;
 }
 
 .tag,
-.location{
-    color: grey;
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 14px;
-    font-size: 32px;
+.location {
+  color: grey;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 14px;
+  font-size: 32px;
 }
 
-.stats{
-    margin: 0 auto;
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 10px;
-    padding-left: 0;
-    background-color: rgb(249, 247, 245);
-    border: 1px solid grey;
-    z-index: 2;
-    margin-bottom: 100px;
-    width: 500px;
+.stats {
+  margin: 0 auto;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-left: 0;
+  background-color: rgb(249, 247, 245);
+  border: 1px solid grey;
+  z-index: 2;
+  margin-bottom: 100px;
+  width: 500px;
 }
 
-.item{
-    display: flex;
-    flex-direction: column;
-    font-size: 25px;
-    justify-content: center;
-    align-items: center;
-    color: rgb(71, 70, 70);
-    padding: 30px 40px;
-    width: 80px;
-    
+.item {
+  display: flex;
+  flex-direction: column;
+  font-size: 25px;
+  justify-content: center;
+  align-items: center;
+  color: rgb(71, 70, 70);
+  padding: 30px 40px;
+  width: 80px;
 }
 
-.descripton{
-    margin: 0 auto;
-    margin-top: 100px;
-    padding-top: 50px;
-    padding-bottom: 80px;
-    background-color: white;
-    width: 500px;
+.descripton {
+  margin: 0 auto;
+  margin-top: 100px;
+  padding-top: 50px;
+  padding-bottom: 80px;
+  background-color: white;
+  width: 500px;
 }
 
-.label{
-    margin-bottom: 10px;
+.label {
+  margin-bottom: 10px;
 }
 
-.quantity{
-    font-weight: 700;
+.quantity {
+  font-weight: 700;
 }
